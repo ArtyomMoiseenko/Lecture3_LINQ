@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture3_ZooProject", "Lecture2_ZooProject\Lecture3_ZooProject.csproj", "{58B9BFA7-3DEE-4845-B357-349A85F8FE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{559BC9A1-024A-4110-A31D-459DE27088CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B9BFA7-3DEE-4845-B357-349A85F8FE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B9BFA7-3DEE-4845-B357-349A85F8FE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B9BFA7-3DEE-4845-B357-349A85F8FE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B9BFA7-3DEE-4845-B357-349A85F8FE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559BC9A1-024A-4110-A31D-459DE27088CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559BC9A1-024A-4110-A31D-459DE27088CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559BC9A1-024A-4110-A31D-459DE27088CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559BC9A1-024A-4110-A31D-459DE27088CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

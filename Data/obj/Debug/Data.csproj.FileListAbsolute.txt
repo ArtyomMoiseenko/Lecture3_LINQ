@@ -1,0 +1,6 @@
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\bin\Debug\Data.dll
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\bin\Debug\Data.pdb
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\bin\Debug\System.ValueTuple.dll
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\obj\Debug\Data.dll
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Data\obj\Debug\Data.pdb

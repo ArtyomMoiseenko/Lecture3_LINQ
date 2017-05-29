@@ -1,0 +1,12 @@
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\Lecture2_ZooProject.exe.config
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\obj\Debug\Lecture2_ZooProject.csprojResolveAssemblyReference.cache
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\Lecture2_ZooProject.exe
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\Lecture2_ZooProject.pdb
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\obj\Debug\Lecture2_ZooProject.exe
+c:\users\artyom\documents\visual studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\obj\Debug\Lecture2_ZooProject.pdb
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\Data.dll
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Artyom\Documents\Visual Studio 2015\Projects\Lecture2_ZooProject\Lecture2_ZooProject\bin\Debug\Data.pdb
+C:\Users\Artyom\Documents\GitHub\BinaryStudioAcademy\Lecture3_Zoo\Lecture2_ZooProject\bin\Debug\Lecture2_ZooProject.exe.config
+C:\Users\Artyom\Documents\GitHub\BinaryStudioAcademy\Lecture3_Zoo\Lecture2_ZooProject\obj\Debug\Lecture2_ZooProject.exe
+C:\Users\Artyom\Documents\GitHub\BinaryStudioAcademy\Lecture3_Zoo\Lecture2_ZooProject\obj\Debug\Lecture2_ZooProject.pdb
